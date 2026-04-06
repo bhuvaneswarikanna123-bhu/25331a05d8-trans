@@ -3,6 +3,7 @@
 
 int main() {
     int i, j, rows, cols;
+    printf("25331a05d8\n");
 
     printf("Enter number of rows and columns: ");
     scanf("%d%d", &rows, &cols);
